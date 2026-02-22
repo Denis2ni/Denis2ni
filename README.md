@@ -1,16 +1,55 @@
-## Hi there 👋
+# Denis (Denis2ni)
 
-<!--
-**Denis2ni/Denis2ni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am currently deepening my understanding of Git, open-source workflows, and front-end development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My focus is on:
+- Clean Git history and commit structure
+- Proper fork management (origin / upstream)
+- JavaScript architecture and refactoring
+- Internationalization (i18n)
+- Deployment workflows
+
+I value clarity, structure, and reproducibility in development.
+
+---
+
+## Featured Project
+
+### 2048_i18n
+A fork of the original 2048 game by Gabriele Cirulli.
+
+Enhancements:
+- 🌍 Internationalization (FR / EN / ES)
+- 🔤 Language selector
+- 🧭 Automatic browser language detection
+- ✨ UI adjustments
+
+The core game logic remains unchanged.
+
+---
+
+## Current Learning Path
+
+- Advanced Git usage (rebasing, syncing upstream, tags)
+- Clean project structure
+- Deployment practices
+- Improving code readability and maintainability
+
+---
+
+## Technical Stack
+
+- HTML
+- CSS
+- JavaScript
+- Git / GitHub
+
+---
+
+## Philosophy
+
+Small, well-understood steps.
+Clean history.
+Explicit decisions.
